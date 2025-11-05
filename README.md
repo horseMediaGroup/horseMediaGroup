@@ -11,6 +11,20 @@ Our purpose is crucial: **To provide the cutting-edge technological infrastructu
 
 ---
 
+---
+
+## 🎬 Group Showcase (TWENTYFOUR SEVEN)
+
+To understand the scope and quality of the projects we financially empower, we invite you to view the work of our associated production companies:
+
+| | |
+| :---: | :---: |
+| **** | **Visualize Our Global Impact** |
+| | **TWENTYFOUR SEVEN** is synonymous with excellence in **ADVERTISING** and **LONG FORMAT**. We work on the largest campaigns for Automotive, Fashion, and Technology sectors. |
+| | **🔗 [View Full Showreel and Recent Projects](https://twentyfourseven.xyz/)** |
+
+---
+
 ## 💻 Our Technology Stack
 
 We operate with a **modern, asynchronous, and performance-oriented** technology stack, designed to adapt to the dynamic workflows of a multinational holding company.
@@ -55,6 +69,8 @@ Our culture is anchored in the **innovation** philosophy of the audiovisual sect
 3.  **Global Collaboration:** We work closely with IT teams in **Madrid, Barcelona, Milan, and LATAM** offices to ensure seamless integration in a multinational environment.
 
 ---
+
+
 
 **Welcome to the technology that powers global creativity!**
 
