@@ -1,7 +1,6 @@
 
 <img width="600" height="172" alt="unnamed" src="https://github.com/user-attachments/assets/f7cd43fb-801c-40ad-b1a3-c374f6ead6db" />
 
-# 🐴 HORSES MEDIA GROUP SL
 
 ## 🌟 Bienvenida al Ecosistema TWENTYFOUR SEVEN
 
