@@ -1,6 +1,7 @@
 
-<img width="600" height="172" alt="unnamed" src="https://github.com/user-attachments/assets/f7cd43fb-801c-40ad-b1a3-c374f6ead6db" />
-
+<p align="center">
+  <img width="600" height="172" alt="unnamed" src="https://github.com/user-attachments/assets/f7cd43fb-801c-40ad-b1a3-c374f6ead6db" />
+</p>
 ## 🌟 Welcome to the TWENTYFOUR SEVEN Ecosystem
 
 We are the Web Development Engineering team within **HORSES MEDIA GROUP SL**, the financial vehicle and holding company of the global conglomerate **TWENTYFOUR SEVEN GROUP**.
