@@ -11,8 +11,6 @@ Our purpose is crucial: **To provide the cutting-edge technological infrastructu
 
 ---
 
----
-
 ## 🎬 Group Showcase (TWENTYFOUR SEVEN)
 
 To understand the scope and quality of the projects we financially empower, we invite you to view the work of our associated production companies:
