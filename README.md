@@ -58,7 +58,6 @@ Nuestra cultura está anclada en la filosofía de **innovación** del sector aud
 ---
 
 **¡Bienvenido a la tecnología que impulsa la creatividad global!**
-**horseMediaGroup/horseMediaGroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
