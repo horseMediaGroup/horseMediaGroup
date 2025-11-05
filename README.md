@@ -1,4 +1,4 @@
-# 🐴 HORSES MEDIA GROUP SL | Ingeniería de Desarrollo Web
+# 🐴 HORSES MEDIA GROUP SL
 
 ## 🌟 Bienvenida al Ecosistema TWENTYFOUR SEVEN
 
