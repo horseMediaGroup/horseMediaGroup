@@ -5,13 +5,13 @@
 
 
 
-## 🌟 Welcome to the TWENTYFOUR SEVEN Ecosystem
+# � Digital Engineering at Twentyfourseven Group
 
-We are the Web Development Engineering team within **HORSES MEDIA GROUP SL**, the financial vehicle and holding company of the global conglomerate **TWENTYFOUR SEVEN GROUP**.
+> **"Code is our lens. Innovation is our frame."**
 
-Our purpose is crucial: **To provide the cutting-edge technological infrastructure** and internal tools necessary to manage, optimize, and scale the capital that drives high-end audiovisual content creation for the world's most prestigious brands (BLUR, LEE FILMS, THE POST OFFICE, etc.).
+Welcome to the **Digital Engineering Hub** of **Twentyfourseven Group**. We are the creative technologists building the operating system for a global ecosystem of audiovisual, arts, and VFX companies.
 
-> **Our Mission:** Translating the sector's philosophy of being **Creative and Innovative** into a modern, scalable, and efficient web development environment.
+Our mission is to bridge the gap between **high-end film production** and **modern software engineering**. We develop the bespoke applications, digital platforms, and internal tools that power the production of commercials, feature films, and digital experiences for the world's most prestigious brands.
 
 ---
 
@@ -27,6 +27,25 @@ To understand the scope and quality of the projects we financially empower, we i
 
 ---
 
+## 🏗️ The Studio Operating System
+
+In the fast-paced world of audiovisual production, efficiency and creativity must coexist. Our engineering team develops a suite of interconnected applications that serve as the digital backbone for our creative endeavors:
+
+### 🎥 Production Management Suites
+*   **Dynamic call sheets & scheduling apps** that synchronize hundreds of crew members in real-time.
+*   **Location scouting platforms** integrating map data and media galleries for directors.
+*   **Casting databases** with smart filtering and video portfolio integration.
+
+### 🎨 VFX & Post-Production Pipelines
+*   Workflow tools connecting **The Post Office** with global clients for seamless review and approval cycles.
+*   Asset management systems for handling high-resolution media files and version control.
+
+### 📊 Real-Time Financial Logic
+*   **Budgeting applications** tailored for the complex logistics of multi-country shoots.
+*   **Live cost tracking** dashboards that give producers instant visibility into production spend.
+
+---
+
 ## 💻 Our Technology Stack
 
 We operate with a **modern, asynchronous, and performance-oriented** technology stack, designed to adapt to the dynamic workflows of a multinational holding company.
@@ -39,6 +58,22 @@ We operate with a **modern, asynchronous, and performance-oriented** technology 
 | **Language** | **TypeScript** | Ensures robustness, scalability, and early error detection in the codebase. |
 | **Backend** | **Node.js** | Fast and efficient runtime environment for API services. |
 | **Framework** | **Express.js** | Building robust and secure RESTful APIs. |
+
+## 💻 Technical Direction (The Stack)
+
+We treat our codebase like a film set: organized, high-performance, and ready for action.
+
+### **Frontend Cinematography**
+*   **React & Vue.js**: For building "Pixel Perfect" interfaces that rival the visual quality of our productions.
+*   **Framer Motion / GSAP**: To bring cinema-quality animations and transitions to the web.
+*   **Microfrontends**: Ensuring our applications are modular and scalable, like scenes in a movie.
+
+### **Backend Production**
+*   **Node.js & Express**: The high-speed runners delivering data where it's needed, instantly.
+*   **TypeScript**: Our script supervisor, ensuring every line of code is type-safe and error-free.
+*   **Cloud Infrastructure**: Scalable architectures supporting heavy media demands and global access.
+
+---
 
 ### Architecture
 
